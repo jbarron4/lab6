@@ -16,3 +16,14 @@ header {
   text-align: center;
   position: relative;
 }
+
+#navbar-container ul {
+  
+}
+
+#navbar-container ul li{
+  list-style-type: none;
+  display: block;
+  text-decoration: none;
+  background-color: #000;
+}
