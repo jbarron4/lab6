@@ -3,22 +3,16 @@ header {
   background-color: blue;
 }
 
-#main-navbar {
-  overflow: hidden;
-  list-style-type: none;
-  display: block;
-}
-
 #main-navbar ul {
   padding: 0;
   margin: 0;
+  list-style-type: none;
+  overflow: hidden;
+  display: block;
 }
 
 #main-navbar ul li{
-  list-style-type: none;
-  display: block;
-  text-decoration: none;
-  background-color: #000;
+  float: left;
 }
 
 #main-navbar ul li a{
