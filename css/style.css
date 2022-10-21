@@ -4,8 +4,6 @@ header {
 }
 
 #main-navbar {
-  padding: 0;
-  margin: 0;
   overflow: hidden;
   list-style-type: none;
   display: block;
@@ -18,7 +16,8 @@ header {
 }
 
 #navbar-container ul {
-  
+  padding: 0;
+  margin: 0;
 }
 
 #navbar-container ul li{
@@ -26,4 +25,11 @@ header {
   display: block;
   text-decoration: none;
   background-color: #000;
+}
+
+#navbar-container ul li a{
+  padding: 10px 20px;
+  display: block;
+  color: #fff;
+  text-decoration: none;  
 }
