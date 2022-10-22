@@ -29,8 +29,8 @@ header {
 
 #navbar-container {
   width: 100%;
-  text-align: center;
   position: relative;
+  text-align: center;
 }
 
 #onpage {
@@ -45,14 +45,9 @@ header {
   background-color: red;
 }
 
-#sidebar ul{
-  position: fixed;
-}
-
 #sidebar-container ul {
-  padding: 0;
   list-style-type: none;
-  display: block;
+  padding: 0;
 }
 
 #sidebar-container ul li a {
