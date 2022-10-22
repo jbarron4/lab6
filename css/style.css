@@ -36,3 +36,15 @@ header {
 #onpage {
   text-decoration: underline overline;
 }
+
+#sidebar {
+  right: 0%;
+  width: 20%;
+  height: 100%;
+  position: fixed;
+  background-color: red;
+}
+
+#sidebar-container ul {
+  padding: 0;
+}
