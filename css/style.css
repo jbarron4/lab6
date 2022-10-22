@@ -13,6 +13,8 @@ header {
 
 #main-navbar ul li{
   float: left;
+  left: 50%;
+  right: 50%;
 }
 
 #main-navbar ul li a{
