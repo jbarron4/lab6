@@ -48,3 +48,15 @@ header {
 #sidebar-container ul {
   padding: 0;
 }
+
+#sidebar-container ul li a {
+  padding: 15px 0;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  color: #fff;
+}
+
+#sidebar-container ul li a:hover {
+  background-color: #000;
+}
